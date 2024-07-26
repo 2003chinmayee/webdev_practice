@@ -1,0 +1,39 @@
+.conatiner{
+    border:2px solid rgb(90, 203, 238);
+    box-sizing: border-box;
+    margin:50px;
+    padding:25px ;
+    width: 400px;
+    border-radius: 15px;
+}
+p{
+    text-align: justify;
+}
+
+.nature{
+    border: 2px solid white;
+    width: 300px;
+    height: 250px;
+    border-radius:30px;
+    margin: 5px;
+    padding: 15px;
+   
+
+}
+button{
+    border-radius: 10px;
+    position:relative;
+    left: 20px;
+}
+.b1{
+
+}
+.last{
+    display: inline-block;
+    position: relative;
+    left: 104px;
+    background-color: rgb(186, 229, 229);
+    border-color: rgb(176, 212, 243);
+    color: blue;
+}
+    

@@ -1,0 +1,18 @@
+div ul li{
+    background-color: blueviolet;
+    
+    /* display:inline-block; = from using this also we can remove the front dot from the  list*/ 
+    /* display: inline; */
+    list-style-position: inside;
+    list-style: none;
+    width: 122px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid #971697;
+    border-radius: 5px;
+    box-shadow: 16px 10px 12px 2px greenyellow;
+    text-shadow:2px 1px 3px 4px red ;
+
+}

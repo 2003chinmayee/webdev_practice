@@ -1,0 +1,30 @@
+*{
+    padding: 5px;
+    margin:10px;
+}
+
+div.container{
+    background-color: aqua;
+    margin: auto;
+    border:2px solid red;
+    width:500px;
+    height:600px; 
+    font-size: 20px;
+
+
+
+}
+
+div.container>div{
+    width:50%;
+}
+
+div.container>div>p{
+    font-size: 1.5rem;
+    width:30%;
+}
+
+div{
+    background-color: aqua;
+
+}
