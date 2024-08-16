@@ -1,0 +1,16 @@
+.cantainer{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:60px;
+    width:60px;
+    border:2px solid black;
+    
+    
+}
